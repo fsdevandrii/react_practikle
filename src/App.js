@@ -9,7 +9,8 @@ function App() {
   return (
     <div className="App">
       <Users />
-      <Success />
+
+      {/* <Success /> */}
     </div>
   );
 }
